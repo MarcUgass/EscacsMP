@@ -1,0 +1,59 @@
+﻿  debug.cpp
+  image_png.cpp
+  keyboard.cpp
+  mouse.cpp
+  NFont.cpp
+  sound.cpp
+  sprites.cpp
+  stb_vorbis.cpp
+  video.cpp
+  ChessBoard.cpp
+C:\Users\Usuario\Desktop\1r\2n sem\MP\Projecte_2sem\Escacs final\0. C++ Code\Logic Game\Chess\ChessBoard.cpp(525,22): warning C4018: '<': no coinciden signed/unsigned
+  ChessPosition.cpp
+  CurrentGame.cpp
+C:\Users\Usuario\Desktop\1r\2n sem\MP\Projecte_2sem\Escacs final\0. C++ Code\Logic Game\Chess\CurrentGame.cpp(61,104): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\Usuario\Desktop\1r\2n sem\MP\Projecte_2sem\Escacs final\0. C++ Code\Logic Game\Chess\CurrentGame.cpp(61,58): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Usuario\Desktop\1r\2n sem\MP\Projecte_2sem\Escacs final\0. C++ Code\Logic Game\Chess\CurrentGame.cpp(64,104): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\Usuario\Desktop\1r\2n sem\MP\Projecte_2sem\Escacs final\0. C++ Code\Logic Game\Chess\CurrentGame.cpp(64,58): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Usuario\Desktop\1r\2n sem\MP\Projecte_2sem\Escacs final\0. C++ Code\Logic Game\Chess\CurrentGame.cpp(67,104): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\Usuario\Desktop\1r\2n sem\MP\Projecte_2sem\Escacs final\0. C++ Code\Logic Game\Chess\CurrentGame.cpp(67,58): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Usuario\Desktop\1r\2n sem\MP\Projecte_2sem\Escacs final\0. C++ Code\Logic Game\Chess\CurrentGame.cpp(106,23): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\Usuario\Desktop\1r\2n sem\MP\Projecte_2sem\Escacs final\0. C++ Code\Logic Game\Chess\CurrentGame.cpp(107,141): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Usuario\Desktop\1r\2n sem\MP\Projecte_2sem\Escacs final\0. C++ Code\Logic Game\Chess\CurrentGame.cpp(107,80): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Usuario\Desktop\1r\2n sem\MP\Projecte_2sem\Escacs final\0. C++ Code\Logic Game\Chess\CurrentGame.cpp(123,26): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\Usuario\Desktop\1r\2n sem\MP\Projecte_2sem\Escacs final\0. C++ Code\Logic Game\Chess\CurrentGame.cpp(219,133): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\Usuario\Desktop\1r\2n sem\MP\Projecte_2sem\Escacs final\0. C++ Code\Logic Game\Chess\CurrentGame.cpp(244,86): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\Usuario\Desktop\1r\2n sem\MP\Projecte_2sem\Escacs final\0. C++ Code\Logic Game\Chess\CurrentGame.cpp(244,68): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Usuario\Desktop\1r\2n sem\MP\Projecte_2sem\Escacs final\0. C++ Code\Logic Game\Chess\CurrentGame.cpp(244,58): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+  Piece.cpp
+C:\Users\Usuario\Desktop\1r\2n sem\MP\Projecte_2sem\Escacs final\0. C++ Code\Logic Game\Chess\Piece.cpp(73,76): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Usuario\Desktop\1r\2n sem\MP\Projecte_2sem\Escacs final\0. C++ Code\Logic Game\Chess\Piece.cpp(73,70): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Usuario\Desktop\1r\2n sem\MP\Projecte_2sem\Escacs final\0. C++ Code\Logic Game\Chess\Piece.cpp(76,77): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Usuario\Desktop\1r\2n sem\MP\Projecte_2sem\Escacs final\0. C++ Code\Logic Game\Chess\Piece.cpp(76,71): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Usuario\Desktop\1r\2n sem\MP\Projecte_2sem\Escacs final\0. C++ Code\Logic Game\Chess\Piece.cpp(79,78): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Usuario\Desktop\1r\2n sem\MP\Projecte_2sem\Escacs final\0. C++ Code\Logic Game\Chess\Piece.cpp(79,72): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Usuario\Desktop\1r\2n sem\MP\Projecte_2sem\Escacs final\0. C++ Code\Logic Game\Chess\Piece.cpp(82,78): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Usuario\Desktop\1r\2n sem\MP\Projecte_2sem\Escacs final\0. C++ Code\Logic Game\Chess\Piece.cpp(82,72): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Usuario\Desktop\1r\2n sem\MP\Projecte_2sem\Escacs final\0. C++ Code\Logic Game\Chess\Piece.cpp(85,76): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Usuario\Desktop\1r\2n sem\MP\Projecte_2sem\Escacs final\0. C++ Code\Logic Game\Chess\Piece.cpp(85,70): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Usuario\Desktop\1r\2n sem\MP\Projecte_2sem\Escacs final\0. C++ Code\Logic Game\Chess\Piece.cpp(88,76): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Usuario\Desktop\1r\2n sem\MP\Projecte_2sem\Escacs final\0. C++ Code\Logic Game\Chess\Piece.cpp(88,70): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Usuario\Desktop\1r\2n sem\MP\Projecte_2sem\Escacs final\0. C++ Code\Logic Game\Chess\Piece.cpp(98,76): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Usuario\Desktop\1r\2n sem\MP\Projecte_2sem\Escacs final\0. C++ Code\Logic Game\Chess\Piece.cpp(98,70): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Usuario\Desktop\1r\2n sem\MP\Projecte_2sem\Escacs final\0. C++ Code\Logic Game\Chess\Piece.cpp(101,77): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Usuario\Desktop\1r\2n sem\MP\Projecte_2sem\Escacs final\0. C++ Code\Logic Game\Chess\Piece.cpp(101,71): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Usuario\Desktop\1r\2n sem\MP\Projecte_2sem\Escacs final\0. C++ Code\Logic Game\Chess\Piece.cpp(104,78): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Usuario\Desktop\1r\2n sem\MP\Projecte_2sem\Escacs final\0. C++ Code\Logic Game\Chess\Piece.cpp(104,72): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Usuario\Desktop\1r\2n sem\MP\Projecte_2sem\Escacs final\0. C++ Code\Logic Game\Chess\Piece.cpp(107,78): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Usuario\Desktop\1r\2n sem\MP\Projecte_2sem\Escacs final\0. C++ Code\Logic Game\Chess\Piece.cpp(107,72): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Usuario\Desktop\1r\2n sem\MP\Projecte_2sem\Escacs final\0. C++ Code\Logic Game\Chess\Piece.cpp(110,76): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Usuario\Desktop\1r\2n sem\MP\Projecte_2sem\Escacs final\0. C++ Code\Logic Game\Chess\Piece.cpp(110,70): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Usuario\Desktop\1r\2n sem\MP\Projecte_2sem\Escacs final\0. C++ Code\Logic Game\Chess\Piece.cpp(113,76): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Usuario\Desktop\1r\2n sem\MP\Projecte_2sem\Escacs final\0. C++ Code\Logic Game\Chess\Piece.cpp(113,70): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+  GraphicManager.cpp
+C:\Users\Usuario\Desktop\1r\2n sem\MP\Projecte_2sem\Escacs final\0. C++ Code\Logic Game\GraphicManager.cpp(28,37): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Usuario\Desktop\1r\2n sem\MP\Projecte_2sem\Escacs final\0. C++ Code\Logic Game\GraphicManager.cpp(28,31): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  main.cpp
+  Generando código...
+  SDL_FontCache.c
+  MP_Practica.vcxproj -> C:\Users\Usuario\Desktop\1r\2n sem\MP\Projecte_2sem\Escacs final\2. Platforms\0. Windows Desktop\Program\MP_Practica.exe
